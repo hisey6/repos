@@ -1,0 +1,5 @@
+﻿  dive.cpp
+c:\users\dave hisey\source\repos\dive\dive\dive.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dave hisey\source\repos\dive\dive\dive.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dave hisey\source\repos\dive\dive\dive.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Dive.vcxproj -> C:\Users\Dave Hisey\source\repos\Dive\Debug\Dive.exe

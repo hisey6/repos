@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dive", "Dive\Dive.vcxproj", "{72C3B23E-3436-4740-82EF-1F6589C3134E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C3B23E-3436-4740-82EF-1F6589C3134E}.Debug|x64.ActiveCfg = Debug|x64
+		{72C3B23E-3436-4740-82EF-1F6589C3134E}.Debug|x64.Build.0 = Debug|x64
+		{72C3B23E-3436-4740-82EF-1F6589C3134E}.Debug|x86.ActiveCfg = Debug|Win32
+		{72C3B23E-3436-4740-82EF-1F6589C3134E}.Debug|x86.Build.0 = Debug|Win32
+		{72C3B23E-3436-4740-82EF-1F6589C3134E}.Release|x64.ActiveCfg = Release|x64
+		{72C3B23E-3436-4740-82EF-1F6589C3134E}.Release|x64.Build.0 = Release|x64
+		{72C3B23E-3436-4740-82EF-1F6589C3134E}.Release|x86.ActiveCfg = Release|Win32
+		{72C3B23E-3436-4740-82EF-1F6589C3134E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D509E68B-925B-4024-9699-247E6F7558C9}
+	EndGlobalSection
+EndGlobal

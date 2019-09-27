@@ -1,0 +1,28 @@
+﻿  ZombieArena.cpp
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\player.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.cpp(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.cpp(27): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.cpp(28): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.cpp(30): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\dave hisey\source\repos\zombiearena\zombiearena\zombiearena.cpp(595): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ZombieArena.vcxproj -> C:\Users\Dave Hisey\source\repos\ZombieArena\Debug\ZombieArena.exe
